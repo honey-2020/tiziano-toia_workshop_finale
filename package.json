@@ -1,0 +1,25 @@
+{
+  "name": "tizianotoia-portfolio",
+  "version": "1.0.0",
+  "description": "Website-porfolio for the photographer Tiziano Toia",
+  "main": "provvisorio.js",
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "lightbox2": "^2.11.3",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honey-2020/tizianotoia-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honey-2020/tizianotoia-portfolio/issues"
+  },
+  "homepage": "https://github.com/honey-2020/tizianotoia-portfolio#readme"
+}

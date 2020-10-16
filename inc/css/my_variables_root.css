@@ -1,0 +1,31 @@
+:root {
+  /* color */
+    --light-green: #EAF4E4;
+    --main-green: #71B84C;
+    --main-green-hover: #80c45c80;
+    --dark-grey: #464646;
+    --light-grey: #C4C4C4;
+    --white: white;
+    --black: black;
+    --opacity-black: rgba(0, 0, 0, 0.8);
+    
+    /* vh */
+
+    --vh-hundred: 100vh;
+    --vh-eighty: 80vh;
+
+    /* box-shadow */
+    --box-shadow: 2px 2px 5px var(--main-green-hover);
+    --box-shadow-black: 2px 2px 10px rgba(0, 0, 0, 0.445);
+
+    /* h1 f-s */
+    --h1-size:  1.25em;
+
+    /* main padding */
+    --desktp-padding: 4em 6em 4em 6em;
+    --responsive-main-padding: 4em 3em 4em 3em;
+
+    /* border-radius */
+    --border-br-10: 10px;
+    --border-br-5: 5px;
+  }
