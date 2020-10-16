@@ -3,6 +3,7 @@ Website-porfolio for the photographer Tiziano Toia
 
 
 <h2>Tutorial usati nel progetto</h2>
+inc/js/script_lightbox.js https://www.youtube.com/watch?v=uKVVSwXdLr0<br>
 contact form validation https://www.youtube.com/watch?v=rsd4FNGTRBw<br><br>
 
 <h2>Framework </h2>
