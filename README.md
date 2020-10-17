@@ -16,4 +16,4 @@ license: https://raw.githubusercontent.com/lokesh/lightbox2/master/LICENSE<br><b
 <strong>AOS - Animate On Scroll Library</strong> <br>
 website: https://michalsnik.github.io/aos/ <br><br>
 <strong>SweetAlert</strong> <br>
-https://sweetalert.js.org
+website: https://sweetalert.js.org
