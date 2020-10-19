@@ -7,7 +7,7 @@ const email = document.getElementById('email');
 const message = document.getElementById('message');
 
 form.addEventListener('submit',(e) =>{
-    // e.preventDefault();
+    e.preventDefault();
     checkInputs();
 });
 
